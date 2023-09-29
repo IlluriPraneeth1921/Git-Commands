@@ -1,1 +1,1 @@
-# Git-Commands
+# Git-Commands With all neccessary commands to be used
